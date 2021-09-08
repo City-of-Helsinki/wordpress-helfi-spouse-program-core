@@ -1,0 +1,9 @@
+{
+	"name": "druid/spouse-program-core",
+	"type": "wordpress-muplugin",
+	"version": "master",
+	"require": {
+	  "wecodemore/wpstarter": "~2.0",
+	  "johnpbloch/wordpress-core": ">5.0"
+	}
+}
